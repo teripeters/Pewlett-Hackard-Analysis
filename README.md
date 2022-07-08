@@ -25,7 +25,7 @@ Next, we identfied the retiring employees who are eligible to participate in the
       src="Resources/mentorship_eligibility_tail.png"
       alt="Image of tail end of mentorship eligibility table"
       title="Tail of Mentorship Eligibility Table"
-      style="display: inline-block; margin: 0 auto; width: 900px">
+      style="display: inline-block; margin: 0 auto; width: 600px">
 
 ## Summary
 We were tasked with answering two questions. First, how many roles will need to be filled as the "silver tsunami" begins to make an impact? Within the next few years, Pewlett-Hackard will lose 72,458 employees to retirement. Second, are there enough qualified, retirement-ready employees in the departments to mentor the next generation of PH employees? To answer this question, let's take a look at additional tables that we made. 
